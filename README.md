@@ -11,6 +11,10 @@
 🌱 When I'm not in front of my computer, you can find me exploring new hiking trails, reading up on the latest tech trends, or enjoying a cup of my favorite brew.
 
 Let's build something great together!
+
+### Technologies I love
+[![My Skills](https://skills.thijs.gg/icons?i=java,nodejs,react,aws,mysql,html,css,js,idea,postman,vim,md,bash,git)](https://skills.thijs.gg)
+
 <!--
 **michaelpotocar/michaelpotocar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
